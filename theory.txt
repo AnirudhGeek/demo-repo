@@ -1,0 +1,26 @@
+you are like a doctor
+
+
+REQUESTS METHODS :-
+1. GET => Going for the consultation to get a checkup 
+       => when you are asking something from the server 
+
+2. POST => Going to get a new kidney inserted
+        => IF i want to put some data on the backend 
+        => real word example is creating a new linkdin post, creating a new instagram post 
+
+3. PUT => Going to get a kidney replaced
+       => Whenever you want to update a data on the server 
+       => eg, is when you want to update your first name or update your password
+
+4. DELETE => Going to get a kidney removed
+          => If you want to delete some data from backend
+
+
+
+Status codes:-
+1. 200 - everything went fine 
+2. 404 - Doctor is not in the hospital
+3. 500 - Mid sergery light went out 
+4. 411 - Inputs were incorrect, wrong person came for sergery
+5. 403 - you were not allowed in the hospital
